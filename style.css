@@ -1,0 +1,41 @@
+.Grid{
+  text-align: center;
+}
+
+.Center{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  width: 30%;
+  }
+
+.Statistics{
+  display:flex;
+align-items:center;
+justify-content: space-evenly;
+}
+
+
+img{
+  max-width:100%;
+}
+
+.HRT {
+  background-color: rgb(247, 138, 138);
+}
+
+.ToroRosso {
+  background-color: rgba(109, 58, 138, 0.74);
+}
+
+.RedBull {
+  background-color: rgb(170, 0, 0);
+}
+
+.Renault {
+  background-color: rgba(251, 255, 0, 0.801);
+}
+
+.McLaren{
+  background-color: rgb(255, 166, 0);
+}
